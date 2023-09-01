@@ -18,7 +18,7 @@ I'm a computer science student currently in my first year at Puc Minas. I'm all 
 
 #
 
-### 🔧 Tools
+### 🛠️ Tools
 
 <img align="left" alt="VsCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
