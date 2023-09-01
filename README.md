@@ -1,3 +1,4 @@
 # 🦊 Bibs-lm 
 
-**First-year Computer Science Student**
+**Computer Science Student (PucMinas/First-year)**
+
