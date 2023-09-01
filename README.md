@@ -18,3 +18,5 @@ I'm a computer science student currently in my first year at Puc Minas. I'm all 
 <br />
 
 #
+
+### 🧰 Languages
