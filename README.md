@@ -1,4 +1,4 @@
-# 🦊 Bibs-lm 
+# 🦊 Gabi
 
 **`Computer Science Student`**
 
@@ -6,12 +6,14 @@ I'm a computer science student currently in my first year at Puc Minas. I'm all 
 
 ---
 
- <summary><h3> 📖 Languages </h3></summary>
+### 📖 Languages
+ 
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="Cpp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
 <img align="left" alt="Csharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<br />
 
 #
 
@@ -22,5 +24,11 @@ I'm a computer science student currently in my first year at Puc Minas. I'm all 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />  
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-            
-          
+<br />       
+
+# 
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Bibs-lm&theme=aura&border_radius=4.5) 
+
+
+![Bibs-lm's GitHub stats](https://github-readme-stats.vercel.app/api?username=bibs-lm&show_icons=true&theme=aura)
