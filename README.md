@@ -1,8 +1,6 @@
 # 🦊 Bibs-lm 
 
-
-<!--
-**Bibs-lm/Bibs-lm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**First-year Computer Science Student**
 
 Here are some ideas to get you started:
 
