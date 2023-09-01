@@ -31,11 +31,9 @@ I'm a computer science student currently in my first year at Puc Minas. I'm all 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Bibs-lm&theme=aura&border_radius=4.5) 
 
 
-<!-- ![Bibs-lm's GitHub stats](https://github-readme-stats.vercel.app/api?username=bibs-lm&show_icons=true&theme=aura) -->
+ ![Bibs-lm's GitHub stats](https://github-readme-stats.vercel.app/api?username=bibs-lm&show_icons=true&theme=aura) 
 
-<a href="https://github.com/bibs-lm/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bibs-lm&theme=aura" />
-</a>
+
 <a href="https://github.com/bibs-lm/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bibs-lm&layout=compact&langs_count=8&card_width=250&theme=aura" />
 </a>
