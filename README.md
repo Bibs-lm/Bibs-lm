@@ -1,4 +1,4 @@
-# 🦊 Gabi
+# Gabi
 
 **`Computer Science Student`**
 
