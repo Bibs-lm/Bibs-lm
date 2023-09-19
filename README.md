@@ -34,6 +34,6 @@ I'm a computer science student currently in my first year at Puc Minas. I'm all 
  ![Bibs-lm's GitHub stats](https://github-readme-stats.vercel.app/api?username=bibs-lm&show_icons=true&theme=aura) 
 
 
-<a href="https://github.com/bibs-lm/convoychat">
+ <!--<a href="https://github.com/bibs-lm/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bibs-lm&layout=compact&langs_count=8&card_width=250&theme=aura" />
-</a>
+</a>-->
