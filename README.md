@@ -2,7 +2,7 @@
 
 **`Computer Science Student`**
 
-I'm a computer science student currently in my first year at Puc Minas. I'm all about creative problem-solving and discovering new ways to tackle challenges. I'm seeking challenging and rewarding opportunities to learn and grow my skills. My goal is to stand out in the industry through unwavering dedication and a relentless pursuit of excellence.
+I'm a computer science student currently in my first year at Puc Minas. I aspire to make a meaningful impact on the world through my dedication and by making good relationships wherever I find myself. I actively seek out challenges and strive to step out of my comfort zone. My dream is to work on something I truly believe in,  that consistently presents new obstacles, and where I am surrounded by amazing people eager to support each other’s growth and development.
 
 ---
 
@@ -36,4 +36,7 @@ I'm a computer science student currently in my first year at Puc Minas. I'm all 
 
  <!--<a href="https://github.com/bibs-lm/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bibs-lm&layout=compact&langs_count=8&card_width=250&theme=aura" />
+
+  possível textinho
+  I'm all about creative problem-solving and discovering new ways to tackle challenges. I'm seeking challenging and rewarding opportunities to learn and grow my skills. My goal is to stand out in the industry through unwavering dedication and a relentless pursuit of excellence.
 </a>-->
