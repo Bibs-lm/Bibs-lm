@@ -2,7 +2,7 @@
 
 **`Computer Science Student`**
 
-I'm a computer science student currently in my first year at Puc Minas. I aspire to make a meaningful impact on the world through my dedication and by making good relationships wherever I find myself. I actively seek out challenges and strive to step out of my comfort zone. My dream is to work on something I truly believe in,  that consistently presents new obstacles, and where I am surrounded by amazing people eager to support each other’s growth and development.
+I'm a second-year computer science student at Puc Minas. I aspire to make a meaningful impact on the world through my dedication and by making good relationships wherever I find myself. I actively seek out challenges and strive to step out of my comfort zone. My dream is to work on something I truly believe in,  that consistently presents new obstacles, and where I am surrounded by amazing people eager to support each other’s growth and development.
 
 ---
 
